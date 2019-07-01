@@ -141,6 +141,12 @@
 - [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect Short URLs.
 - [Repo Hunt](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily.
 
+# Terraform
+
+### Recipies
+
+- [Access Bastion Server](https://github.com/obezuk/cf-bastion) - Terraform template to deploy Bastion Server in EC2 with remote access via Cloudflare Access + Argo Tunnels.
+
 ## Other
 
 - [Support](https://support.cloudflare.com)
