@@ -141,6 +141,12 @@
 - [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect Short URLs.
 - [Repo Hunt](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily.
 
+# Terraform
+
+### Recipies
+
+- [Global Server Load Balancing](https://github.com/obezuk/cf-gslb) - Terraform template to deploy multiple globally distributed AWS EC2 Servers with Cloudflare DNS based Geo Load Balancing.
+
 ## Other
 
 - [Support](https://support.cloudflare.com)
